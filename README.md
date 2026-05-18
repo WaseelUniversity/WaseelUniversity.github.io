@@ -1,9 +1,9 @@
-# 📱 قروب واتساب جامعة الوسيل | Waseel University WhatsApp Group
+# 📱 قروب واتساب جامعة الوسيل | Lusail University WhatsApp Group
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/موقعنا-الرسمي-25D366?style=for-the-badge&logo=google-chrome&logoColor=white)](https://waseeluniversity.github.io/)
-[![WhatsApp Group](https://img.shields.io/badge/انضم-للقروب-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FgnuJlO67u7BDorAfmxTag)
+[![WhatsApp Group](https://img.shields.io/badge/انضم-للقروب-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CAKF564PtR9FGnwenz9x3u)
 [![GitHub Repo stars](https://img.shields.io/github/stars/waseeluniversity/waseeluniversity.github.io?style=social)](https://github.com/waseeluniversity/waseeluniversity.github.io)
 
 </div>
@@ -15,15 +15,15 @@
 **أهلاً بك في المستودع الرسمي لموقع قروب واتساب جامعة الوسيل – المنصة الطلابية الأولى في قطر!**  
 هذا المستودع يحتوي على الموقع التعريفي الذي يجمع طلاب **جامعة الوسيل** في مجموعة واتساب واحدة، لتسهيل التواصل، تبادل المراجع، والمساعدة الأكاديمية.
 
-**Welcome to the official repository for the Waseel University WhatsApp Group landing page – the #1 student community in Qatar!**  
-This repository hosts the promotional website that connects **Waseel University** students in one WhatsApp group, enabling collaboration, resource sharing, and academic support.
+**Welcome to the official repository for the Lusail University WhatsApp Group landing page – the #1 student community in Qatar!**  
+This repository hosts the promotional website that connects **Lusail University** students in one WhatsApp group, enabling collaboration, resource sharing, and academic support.
 
 ---
 
 ## 🔗 روابط سريعة | Quick Links
 
 - 🌍 **الموقع الرسمي:** [https://waseeluniversity.github.io/](https://waseeluniversity.github.io/)
-- 💬 **رابط مجموعة الواتساب:** [https://chat.whatsapp.com/FgnuJlO67u7BDorAfmxTag](https://chat.whatsapp.com/FgnuJlO67u7BDorAfmxTag)
+- 💬 **رابط مجموعة الواتساب:** [https://chat.whatsapp.com/CAKF564PtR9FGnwenz9x3u](https://chat.whatsapp.com/CAKF564PtR9FGnwenz9x3u)
 
 ---
 
@@ -54,7 +54,7 @@ This repository hosts the promotional website that connects **Waseel University*
 ## 📖 كيف تنضم؟ | How to Join?
 
 1. **اضغط على رابط الواتساب**  
-   [https://chat.whatsapp.com/FgnuJlO67u7BDorAfmxTag](https://chat.whatsapp.com/FgnuJlO67u7BDorAfmxTag)
+   [https://chat.whatsapp.com/CAKF564PtR9FGnwenz9x3u](https://chat.whatsapp.com/CAKF564PtR9FGnwenz9x3u)
 
 2. **سيتم توجيهك إلى واتساب** – اضغط "انضمام إلى المجموعة".  
 3. **تفعّل الإشعارات** لتتابع كل جديد.  
